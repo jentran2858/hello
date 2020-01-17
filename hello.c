@@ -9,6 +9,8 @@ printf("Jenny Tran!");
   printf("Undecided");
   printf("wil koumaka");
   printf("computer engnering");
+  printf("Tyler Messerschmidt");
+  printf("Electrical Engineer");
 return 0;
 }
 
