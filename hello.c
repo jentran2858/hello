@@ -7,6 +7,8 @@ Date: 2020/14/01
 int main(void) {
 printf("Jenny Tran!");
   printf("Undecided");
+  printf("wil koumaka");
+  printf("computer engnering");
 return 0;
 }
 
