@@ -5,7 +5,8 @@ Date: 2020/14/01
 #include <stdio.h>
 
 int main(void) {
-printf("Hello World!\n");
+printf("Jenny Tran!");
+  printf("Undecided");
 return 0;
 }
 
